@@ -1,0 +1,46 @@
+{
+"manifest_version": 6,
+
+"name":"Power BI Browser Extension",
+"description": "",
+"version":"1.0",
+
+"browser_action":{
+"default_icon": "PBIIcon.PNG",
+"default_popup":"popup.html"
+	},
+
+"icons": { "16": "PBIIcon.PNG",
+           "48": "PBIIcon.PNG",
+          "128": "PBIIcon.PNG" },
+
+"background": {
+	"scripts" : ["eventPage.js","jquery.min.js"],
+	"persistent" : true
+	},
+
+
+"permissions": [
+          "contextMenus",
+          "activeTab",
+		  "tabs",
+		  "storage",
+		  "webRequest",
+		  "notifications",
+		  "<all_urls>"
+        ],
+
+		
+"content_scripts": [
+    {
+      "all_frames": true,
+      "matches": ["<all_urls>"],
+      "js": ["jquery.min.js", "Script1.js", "Login.js"],
+	  "run_at" : "document_end"
+    }
+],
+
+"update_url": "http://clients2.google.com/service/update2/crx",
+"content_security_policy": "script-src 'self' https://js.live.net; object-src 'self'"
+
+}

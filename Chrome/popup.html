@@ -1,0 +1,30 @@
+<html>
+<head>
+    <title>Power BI Browser Extension</title>
+    <script src="../jquery.min.js" type="text/javascript"></script>
+    <script src="https://js.live.net/v5.0/wl.js"></script>
+    <style>
+        div {
+            text-align: center;
+        }
+        label {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <img src="PBIBanner.PNG" alt="OneNote Icon" />
+    <h2 align="center"> <font color="green"> Link your Power BI Account</font></h2>
+
+    <div style="margin:20px;">
+        <a id="signin" href="">Sign in with Power BI</a>
+        <div id="signin_status"></div>
+    </div>
+
+    <div style="margin:20px;text-align:center;">
+        <a id="signout" href="">Sign out</a>
+    </div>
+
+    <script src="popup.js" type="text/javascript"></script>
+</body>
+</html>
