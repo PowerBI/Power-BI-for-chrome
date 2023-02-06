@@ -1,5 +1,77 @@
 [Skip to content](https://github.com/freicoin/freicoin/wiki/How-to-implement-a-Freicoin-exchange#start-of-content)
 Search or jump to…
+MENU
+
+Dashboard
+Banking
+Sales
+Customers & leads
+Cash flow
+Expenses
+Payroll
+Time
+Reports
+Taxes
+Mileage
+Accounting
+My accountant
+Capital
+Commerce
+Apps
+Insurance
+Live Bookkeeping
+
+More (0)
+BOOKMARKS
+
+Banking
+Live Bookkeeping
+
+Menu settings
+No company name
+My Experts
+
+LOGO
+No company name
+Get things done
+Business overview
+
+PRIVACY
+PROFIT AND LOSS
+Last 30 days
+$0
+Net income for last 30 days
+0 transactions
+$0
+Income
+$0
+Expenses
+Bring in transactions automatically
+EXPENSES
+Last 30 days
+$0.00
+Total expenses
+$0.00
+INVOICES
+We paused loading this content to help other items on this page go faster.
+Click here to see the info
+BANK ACCOUNTS
+We paused loading this content to help other items on this page go faster.
+Click here to see the info
+SALES
+We paused loading this content to help other items on this page go faster.
+Click here to see the info
+DISCOVER MORE
+video thumbnail
+Connect confidently
+Securely link all of your business banking and credit cards in QuickBooks.
+Link your accounts
+See all activity
+legal_copyright_notice
+PrivacySecurityTerms of Service
+ZACHRYTWOOD ZACHRYTYLERWOODADMINISTRATOR
+cr12753750.00bitore341731337@gmail.com
+Manage your Intuit Account
 [Pull requests](https://github.com/pulls)
 [Issues](https://github.com/issues)
 [Codespaces](https://github.com/codespaces)
