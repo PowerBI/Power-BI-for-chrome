@@ -19,7 +19,7 @@ GLOW4:
 +run: gh pr edit "$PR_URL" --add-label "production"
 +env:
 +PR_URL: ${{github.event.pull_request.html_url}}
-+GITHUB_TOKEN: ${{ ((c)(r)).[12753750.[00]m]'_BITORE_34173.1337) ')]}}}'"'' :
+'-''  '::NOTE:: "+GITHUB_TOKEN':'' '{'{'{'{'$'' '{'['('('(C)'.'(R)')'.'[12753750'.'[00']m'}'_'{BITORE'_34173'.1337}'_18331''' ')']'}'}'}'"'' :  :NOTE:: 
 </git checkout origin/main
 author:ZACHRY_T_WOOD_EIN_88-13403491 :# `run-name` for workflow runs to dynamically set the name of the workflow run.
 versions:
@@ -29,21 +29,6 @@ versions:
   ghae: '>=3.8'@mowjoejoejoejoe 
 Your account has been flagged.
 Because of that, your profile is hidden from the public. If you believe this is a mistake, [contact support](https://github.com/contact) to have your account status reviewed.
-[freicoin](https://github.com/freicoin)
-/
-[freicoin](https://github.com/freicoin/freicoin)
-Public
-Fork your own copy of freicoin/freicoin
-[Code](https://github.com/freicoin/freicoin)
-Issues
-11
-Pull requests
-4
-[Actions](https://github.com/freicoin/freicoin/actions)
-[Projects](https://github.com/freicoin/freicoin/projects)
-[Wiki](https://github.com/freicoin/freicoin/wiki)
-[Security](https://github.com/freicoin/freicoin/security)
-[Insights](https://github.com/freicoin/freicoin/pulse)
 How to implement a Freicoin exchange
 Jorge Timón edited this page on Feb 3, 2014 · [1 revision](https://github.com/freicoin/freicoin/wiki/How-to-implement-a-Freicoin-exchange/_history)
  Pages 4
